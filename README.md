@@ -1,8 +1,8 @@
 ### Hi there, I’m [koala9527](https://github.com/koala9527) 👋
 
 
-- 🔭 I’m currently working in Tencent (Shenzhen, China).
-- 🌱 I’m currently learning Python, Golang, JS ,PHP.
+- 🔭 I’m currently working in ******* (Shenzhen, China).
+- 🌱 I’m currently learning Python, Golang, JS, PHP.
 - 🤔 I’m looking for help with Python or Golang development.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: 1414707572@qq.com
