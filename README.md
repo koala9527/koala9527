@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working in ******* (Shenzhen, China).
-- 🌱 I’m currently learning Python, Golang, JS, PHP.
+- 🌱 I’m currently learning Python, Golang, JavaScript, PHP.
 - 🤔 I’m looking for help with Python or Golang development.
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: koala9527@qq.com
