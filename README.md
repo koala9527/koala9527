@@ -1,5 +1,8 @@
 ### Hi there, I’m [koala9527](https://github.com/koala9527) 👋
-求职，求职
+求职，求职     
+
+
+
 基本信息
 年龄：28，工作经验：后端 - 7 年
 
@@ -10,6 +13,7 @@
 邮箱：koala952@qq.com，手机/微信：17720515973
   
 个人优势     
+6年一线小厂后端工作经验
 熟练使用 PHP、Python，相关框架Hyperf，Laravel，数据库：Mysql、Redis、Docker、 等常用后端技术    
 了解 人脸识别,目标检测 机器学习, LLM, 等相关技术     
 了解前端JavaScript,CSS,HTML，了解uniapp知识，会使用Vue2/3对的element UI/native UI进行开发     
