@@ -1,5 +1,5 @@
 ### Hi there, I’m [koala9527](https://github.com/koala9527) 👋
-求职，求职     
+求职，求职  （或者找个技术栈类似的大佬搞搞事，AI，web3方向）
 
 
 
